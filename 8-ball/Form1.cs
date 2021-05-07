@@ -13,7 +13,7 @@ namespace _8_ball
     public partial class magic8Ball : Form
     {
         Random ranGen = new Random();
-        string fortune;
+        
         int ranNum;
         public magic8Ball()
         {
